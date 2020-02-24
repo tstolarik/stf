@@ -56,8 +56,8 @@ module.exports = function ShellCtrl($scope) {
     run('am start -n com.android.chrome/com.google.android.apps.chrome.Main')
   }
 
-  $scope.openBeta = function() {
-    run('am start io.crash.air/.ui.MainActivity')
+  $scope.openAppTester = function() {
+    run('am start dev.firebase.appdistribution/.main.MainActivity')
   }
 
   $scope.openAgent = function() {
