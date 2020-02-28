@@ -87,10 +87,6 @@ module.exports = function ShellCtrl($scope) {
         $scope.$digest()
       })
   }
-
-  $scope.restart = function() {
-    $scope.control.workerRestart()
-  }
   // WANDERA CUSTOM - END
 
   $scope.clear = function() {
