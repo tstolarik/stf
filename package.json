@@ -90,7 +90,7 @@
     "@devicefarmer/stf-wiki": "^1.0.0",
     "swagger-express-mw": "^0.7.0",
     "swagger-tools": "^0.10.3",
-    "temp": "^0.8.1",
+    "temp": "^0.9.4",
     "transliteration": "^2.2.0",
     "url-join": "1.1.0",
     "utf-8-validate": "^1.2.1",
